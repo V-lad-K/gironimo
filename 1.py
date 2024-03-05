@@ -1,2 +1,1 @@
-fruits = ("apple", "banana", "cherry")
-print(fruits)
+a = ['gfdgfd', 'gfdgdfg']
